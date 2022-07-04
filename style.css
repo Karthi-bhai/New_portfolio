@@ -1,0 +1,180 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arima&display=swap');
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #a4b0a7;
+    font-family: 'Arima', cursive;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    padding: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+footer div {
+    list-style: none;
+    color: white;
+    padding: 20px;
+}
+.lasttouch{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5%;
+}
+footer .lasttouch a{
+    text-decoration: none;
+    color: white;
+}
+.thanos{
+    height: 80px;
+    width: 80px;
+}
+.kb{
+    height: 40vh;
+    width: 40vh;
+}
+nav ul li{
+    margin: 0 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: green;
+}
+nav li a:hover{color: greenyellow;}
+footer div a:hover{color:greenyellow ;}
+.head{
+    width: 100%;
+    height: 25vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    color: red;
+    display: flex;
+    justify-content: center;
+}.p1{
+    color: white;
+}
+.p2{
+ color: white;
+}
+.p3{
+color: white;
+}
+.portimg{
+    height: 10vh;
+    width: 20vw;
+}
+.portimg2{
+    height: 10vh;
+    width: 20vw;
+}
+.portimg3{
+    height: 10vh;
+    width: 20vw;
+}
+#h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: red;
+}
+.art1{
+background-color: greenyellow;
+width: 20vw;
+}
+.art2{
+    background-color: greenyellow;
+    width: 20vw;
+}
+.last{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.end{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 5%
+    ;
+}
+.art3{
+    background-color: greenyellow;
+    width: 20vw;
+}
+#bio{
+    background-color: #a4b0a7;
+    display: flex;
+    justify-content: center;
+}
+.para{
+    background-color: #a4b0a7;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.port{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+.folio{
+    display: flex;
+    justify-content: space-around;
+    padding: 10%;
+    margin: 0 20px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.skills{
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+#skillcontainer{
+    display: flex;
+    align-content: space-around;
+    padding: 10%;
+    justify-content: space-around;
+    margin: 0 20px;
+}#portfolio{
+    background-color: black;
+}
+#head{
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.svg{
+    height: 5vh;
+    width: 5vw;
+
+}
+.content{
+    color: rgb(1, 60, 23);
+    size:  2vh;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    color: black;
+    size: 10vh;
+}
